@@ -1,0 +1,6 @@
+<td>(gamename)</td>
+    <td>(publishername)</td>
+    <td><a href="(gamelink)"><i>[DOWNLOAD]</i></a> </td>
+    <td>(game/app)</td>
+    <td>(username uploader)</td>
+<tr>
